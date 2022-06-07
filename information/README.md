@@ -40,6 +40,6 @@ Etiqueta que establece el título de la página, y los muestra en la pestaña de
 
 Contiene todo el contenido que quieres mostrar a los usuarios, como imágenes, videos, juegos, audios, etc.
 
-- # Estructura general de un documento
+# Estructura general
 
 ![estructura de una página web](img/structure.png)
